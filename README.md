@@ -26,7 +26,7 @@ The "Recipes" project is a simple HTML-based website that showcases various reci
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recipes.git
+   git clone https://github.com/lakshay1341/recipes.git
    ```
 2. Navigate to the project directory:
    ```bash
